@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<language description="English" ietf="en-US" version="1.0.0" languagegroup="1">
+<language description="Japanese" ietf="ja-JP" version="1.0.0" languagegroup="1">
 	<resources>
-		<resource name="startup">Start {#ExeName} with Windows start</resource>
-		<resource name="startgreenshot">Start {#ExeName}</resource>
-		<resource name="jira">Jira plug-in</resource>
-		<resource name="confluence">Confluence plug-in</resource>
-		<resource name="externalcommand">Open with external command plug-in</resource>
-		<resource name="ocr">OCR plug-in (needs Microsoft Office Document Imaging (MODI))</resource>
-		<resource name="imgur">Imgur plug-in (See: http://imgur.com)</resource>
-		<resource name="language">Additional languages</resource>
-		<resource name="optimize">Optimizing performance, this may take a while.</resource>
+		<resource name="startup">{#ExeName}をWindowsスタートメニューから実行する</resource>
+		<resource name="startgreenshot">{#ExeName}を実行する</resource>
+		<resource name="jira">Jiraプラグイン</resource>
+		<resource name="confluence">Confluenceプラグイン</resource>
+		<resource name="externalcommand">外部プログラムで開くプラグイン</resource>
+		<resource name="ocr">OCRプラグイン(Microsoft Office Document Imaging (MODI)が必要)</resource>
+		<resource name="imgur">Imgurプラグイン(http://imgur.com を参照)</resource>
+		<resource name="language">追加の言語設定</resource>
+		<resource name="optimize">パフォーマンスを最適化しています。しばらくお待ちください。</resource>
 	</resources>
 </language>
